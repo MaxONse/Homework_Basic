@@ -1,1 +1,5 @@
-All my homework by basic course By Modules
+All homework for the basic course, divided into modules
+____
+Вся домашня робота за базовим курсом, розділена на модулі
+____
+Вся домашняя работа по базовому курсу, разделена на модули
